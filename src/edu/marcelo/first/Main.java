@@ -1,4 +1,4 @@
-package edu.marcelo.first_class;
+package edu.marcelo.first;
 
 public class Main {
     public static void main(String[] args) {
